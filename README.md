@@ -1,2 +1,1 @@
-# Python
-My practiced python codes
+Hello, I am Hritik Mohapatra. I am from Jagatsinghpur , Odisha. I am a Machine Learning Enthusiast. I am going to upload my Python codes here. If anyone want to use my code in business purpose then contact me before you use it. 
